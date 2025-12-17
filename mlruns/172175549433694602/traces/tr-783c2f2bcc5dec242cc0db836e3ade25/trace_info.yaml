@@ -1,0 +1,22 @@
+execution_duration_ms: 1411
+request_preview: '{"messages": [{"content": "end", "additional_kwargs": {}, "response_metadata":
+  {}, "type": "human", "name": null, "id": null}]}'
+request_time: '2025-12-01T11:22:02.112Z'
+response_preview: '{"messages": [{"content": "what is the average GPA by city?", "additional_kwargs":
+  {}, "response_metadata": {}, "type": "human", "name": null, "id": null}, {"content":
+  "✅ Relevant: The question pertains to student GPA and their cities, which are relevant
+  to the student domain.. Tables: students", "additional_kwargs": {}, "response_metadata":
+  {}, "type": "ai", "name": null, "id": null, "tool_calls": [], "invalid_tool_calls":
+  [], "usage_metadata": null}, {"content": "✅ Data available for tables: students",
+  "additional_kwargs": {}, "response_metadata": {}, "type": "ai", "name": null, "id":
+  null, "tool_calls": [], "invalid_tool_calls": [], "usage_metadata": null}, {"content":
+  "Generated SQL (conf 0.95):\nSELECT city, AVG(gpa) AS average_gpa FROM students
+  GROUP BY city;", "additional_kwargs": {}, "response_metadata": {}, "type": "ai",
+  "name": null, "id": null, "tool_calls": [], "invalid_tool_calls": [], "usage_metadata":
+  null}, {"content": "end", "additional_kwargs": {}, "response_metada...'
+state: OK
+trace_id: tr-783c2f2bcc5dec242cc0db836e3ade25
+trace_location:
+  mlflow_experiment:
+    experiment_id: '172175549433694602'
+  type: MLFLOW_EXPERIMENT

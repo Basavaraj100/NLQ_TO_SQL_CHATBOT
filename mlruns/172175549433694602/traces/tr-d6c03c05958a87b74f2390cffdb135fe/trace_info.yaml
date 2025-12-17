@@ -1,0 +1,11 @@
+execution_duration_ms: 6483
+request_preview: '{"messages": [{"content": "what is the average GPA by city?", "additional_kwargs":
+  {}, "response_metadata": {}, "type": "human", "name": null, "id": null}]}'
+request_time: '2025-12-01T11:21:35.444Z'
+response_preview: ''
+state: ERROR
+trace_id: tr-d6c03c05958a87b74f2390cffdb135fe
+trace_location:
+  mlflow_experiment:
+    experiment_id: '172175549433694602'
+  type: MLFLOW_EXPERIMENT

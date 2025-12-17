@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain_openai
+langchain_community
+langsmith
+mlflow
+sqlite3
+faker
+python-dotenv

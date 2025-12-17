@@ -1,0 +1,21 @@
+execution_duration_ms: 2040
+request_preview: '{"messages": [{"content": "how many students are there?", "additional_kwargs":
+  {}, "response_metadata": {}, "type": "human", "name": null, "id": null}]}'
+request_time: '2025-12-17T04:07:29.713Z'
+response_preview: '{"messages": [{"content": "how many students are there?", "additional_kwargs":
+  {}, "response_metadata": {}, "type": "human", "name": null, "id": null}, {"content":
+  "✅ Relevant: The question is about the number of students, which pertains to the
+  ''students'' table.. Tables: students", "additional_kwargs": {}, "response_metadata":
+  {}, "type": "ai", "name": null, "id": null, "tool_calls": [], "invalid_tool_calls":
+  [], "usage_metadata": null}, {"content": "❌ Data check tool returned no response",
+  "additional_kwargs": {}, "response_metadata": {}, "type": "ai", "name": null, "id":
+  null, "tool_calls": [], "invalid_tool_calls": [], "usage_metadata": null}], "user_query":
+  "how many students are there?", "intent_result": {"is_relevant": true, "reason":
+  "The question is about the number of students, which pertains to the ''students''
+  table.", "relevant_tables": ["students"]}, "data_check": "missing"}'
+state: OK
+trace_id: tr-ae9360f5679588ad3cda34b49851b661
+trace_location:
+  mlflow_experiment:
+    experiment_id: '172175549433694602'
+  type: MLFLOW_EXPERIMENT

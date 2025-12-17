@@ -1,0 +1,6 @@
+artifact_location: file:///d:/Learning/AgenticAI/AgentiAI_Projects/NLQ_TO_SQL_CHATBOT/mlruns/172175549433694602
+creation_time: 1764569132204
+experiment_id: '172175549433694602'
+last_update_time: 1764569132204
+lifecycle_stage: active
+name: text-to-sql-agent

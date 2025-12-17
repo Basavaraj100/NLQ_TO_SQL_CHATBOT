@@ -1,0 +1,23 @@
+execution_duration_ms: 2063
+request_preview: '{"messages": [{"content": "how many students are there in the database",
+  "additional_kwargs": {}, "response_metadata": {}, "type": "human", "name": null,
+  "id": null}]}'
+request_time: '2025-12-01T10:15:10.737Z'
+response_preview: '{"messages": [{"content": "what is the capital of india", "additional_kwargs":
+  {}, "response_metadata": {}, "type": "human", "name": null, "id": null}, {"content":
+  "❌ ''what is the capital of india'' is not about student data. Please ask about
+  students/courses/enrollments only.", "additional_kwargs": {}, "response_metadata":
+  {}, "type": "ai", "name": null, "id": null, "tool_calls": [], "invalid_tool_calls":
+  [], "usage_metadata": null}, {"content": "how many students are there in the database",
+  "additional_kwargs": {}, "response_metadata": {}, "type": "human", "name": null,
+  "id": null}, {"content": "❌ ''how many students are there in the database'' is not
+  about student data. Please ask about students/courses/enrollments only.", "additional_kwargs":
+  {}, "response_metadata": {}, "type": "ai", "name": null, "id": null, "tool_calls":
+  [], "invalid_tool_calls": [], "usage_metadata": null}], "intent_result": {"is_relevant":
+  false, "reason": "The question is not about students, courses, or enrol...'
+state: OK
+trace_id: tr-9c65b3dbebef5ea8c6c2d8ea660e31fd
+trace_location:
+  mlflow_experiment:
+    experiment_id: '172175549433694602'
+  type: MLFLOW_EXPERIMENT

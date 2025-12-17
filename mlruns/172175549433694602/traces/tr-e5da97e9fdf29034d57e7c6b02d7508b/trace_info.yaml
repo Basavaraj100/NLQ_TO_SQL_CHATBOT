@@ -1,0 +1,11 @@
+execution_duration_ms: 2777
+request_preview: '{"messages": [{"content": "How many students are there", "additional_kwargs":
+  {}, "response_metadata": {}, "type": "human", "name": null, "id": null}]}'
+request_time: '2025-12-17T04:03:48.008Z'
+response_preview: ''
+state: ERROR
+trace_id: tr-e5da97e9fdf29034d57e7c6b02d7508b
+trace_location:
+  mlflow_experiment:
+    experiment_id: '172175549433694602'
+  type: MLFLOW_EXPERIMENT

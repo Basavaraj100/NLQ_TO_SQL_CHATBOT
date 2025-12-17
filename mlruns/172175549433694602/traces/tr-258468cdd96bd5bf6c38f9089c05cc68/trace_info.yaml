@@ -1,0 +1,12 @@
+execution_duration_ms: 4818
+request_preview: '{"messages": [{"content": "what are the different cources  available",
+  "additional_kwargs": {}, "response_metadata": {}, "type": "human", "name": null,
+  "id": null}]}'
+request_time: '2025-12-01T10:16:35.013Z'
+response_preview: ''
+state: ERROR
+trace_id: tr-258468cdd96bd5bf6c38f9089c05cc68
+trace_location:
+  mlflow_experiment:
+    experiment_id: '172175549433694602'
+  type: MLFLOW_EXPERIMENT
