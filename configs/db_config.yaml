@@ -1,0 +1,3 @@
+db_path: "sqlite:///data/sqlite/Data.db"
+
+chatbot_history_db: "data/sqlite/chatbot_history.db"

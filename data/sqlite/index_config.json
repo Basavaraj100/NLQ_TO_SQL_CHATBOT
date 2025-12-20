@@ -2,9 +2,6 @@
     "students": {
         "columns": ["student_id"], 
         "index_name": "idx_students_student_id"
-    },
-    "courses": {
-        "columns": ["department"],
-        "index_name": "idx_courses_department"
     }
+
 }
